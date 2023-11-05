@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="onboarding_main_btn">GET STARTED</string>
+    <string name="onboarding_screen_1_primary">Unlimited movies, TV shows &amp; more</string>
+    <string name="onboarding_screen_1_secondary">Watch anywhere. Cancel anytime.</string>
+    <string name="onboarding_screen_2_primary">There\'s a plan for every fan</string>
+    <string name="onboarding_screen_2_secondary">Plans start at EGP70.</string>
+    <string name="onboarding_screen_3_primary">Watch everywhere</string>
+    <string name="onboarding_screen_3_secondary">Stream on your phone, tablet, laptop and TV.</string>
+    <string name="sign_in_capitalized">SIGN IN</string>
 </resources>
